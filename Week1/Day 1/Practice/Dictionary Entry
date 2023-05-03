@@ -1,0 +1,18 @@
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Dictionary Entry</title>
+</head>
+<body>
+    <h1>Ninja</h1>
+    <img src="C:\Users\Media\Desktop\dictionary entry\pronunciation.png" alt="pronunciation" style="width: 60px; height: 30px; margin-left: 20px">
+    
+
+    <h3>noun</h3>
+    <ol>
+        <li>A practitioner skilled in the Japanese art of ninjutsu</li>
+        <li>A programmer who breaks down problems with zen-like focus</li>
+    </ol>
+    
+</body>
+</html>
