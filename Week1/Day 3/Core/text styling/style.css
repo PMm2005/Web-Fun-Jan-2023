@@ -1,0 +1,21 @@
+h1 {
+    background-color: black;
+    color: aliceblue;
+    font-style:oblique;
+    padding: 13px;
+}
+h2 {
+    text-align: center;
+    background-color: #663399;
+    color: aliceblue;
+    font-style: oblique;
+    padding: 10px;
+    margin-bottom: 10px;
+    
+}
+a{
+    background-color: #9fc5f8;
+    display: block;
+    text-align: right;
+    padding: 8px;
+}
