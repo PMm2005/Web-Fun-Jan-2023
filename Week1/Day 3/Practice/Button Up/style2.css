@@ -1,0 +1,36 @@
+#searchQueryInput{
+    margin-top: 50px;
+    margin-left: 50px;
+    width: 180px;
+    height: 30px;
+    border-radius: 100px;
+    background-color: #f5f5f5;
+    border-color: #00d1b2;
+}
+::placeholder{ /*source : https://www.w3schools.com/howto/howto_css_placeholder.asp/ */
+    color: #00d1b2;
+    text-align: center;
+    font-size: large;
+    
+}
+#button{
+    background-color: #00d1b2;
+    color: #f5f5f5;
+    font-size: larger;
+    margin-left: 50px;
+    margin-top: 10px;
+    width: 35px;
+    height: 35px;
+    border: none;
+    border-radius: 50%;
+}
+#createaccount{
+    background-color: #2b78e4;
+    color: white;
+    font-size: medium;
+    margin-left: 50px;
+    margin-top: 10px;
+    width: 170px;
+    height: 30px;
+    box-shadow: 5px 3px 2px 1px black;
+}
