@@ -1,0 +1,97 @@
+.container{
+    width: 950px;
+    height: 700px;
+    background-color: silver;
+    margin: 0px auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
+
+.top-row {
+    height: 180px;
+    margin: 15px;
+    background-color: #5ac6e9;
+    position: relative;
+    bottom: 3px;
+}
+.second-row {
+    height: 180px;
+    margin: 15px;
+    background-color: #d2a7ab;
+    position: relative;
+    bottom: 10px;
+}
+.third-row {
+    height: 180px;
+    margin: 15px;
+    background-color: #fcfcff;
+    position: relative;
+    bottom: 11px;
+}
+
+.img1{
+    width: 180px;
+    height: 170px;
+    margin: auto;
+    position: absolute;
+    top: 60px;
+    right: 350px;
+} 
+.img2{
+    width: 180px;
+    height: 170px;
+    margin: auto;
+    position: absolute;
+    top: 60px;
+    left: 350px;
+} 
+.img3{
+    width: 180px;
+    height: 170px;
+    margin: auto;
+    position: absolute;
+    top: 60px;
+    left: 650px;
+}
+.img4{
+    width: 180px;
+    height: 170px;
+    margin: auto;
+    position: absolute;
+    top: 265px;
+    right: 500px;
+}
+.img5{
+    width: 180px;
+    height: 170px;
+    margin: auto;
+    position: absolute;
+    top: 265px;
+    left: 500px;
+}
+.img6{
+    width: 180px;
+    height: 170px;
+    margin: auto;
+    position: absolute;
+    top: 470px;
+    left: 350px;
+}
+.img7{
+    width: 180px;
+    height: 170px;
+    margin: auto;
+    position: absolute;
+    top: 470px;
+    right: 350px;
+}
+.img8{
+    width: 180px;
+    height: 170px;
+    margin: auto;
+    position: absolute;
+    top: 470px;
+    left: 660px;
+}
