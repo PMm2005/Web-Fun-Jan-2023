@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dojonary</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!--Nav Bar-->
+    <div class="container">
+
+        <div class="navbar">
+        <h1 class="title">Dojonary</h1>
+        <input class="searchbar" type="text" placeholder="Search..">
+        <button class="btn" type="submit" onclick="logOut(this)" >Login</button>
+        </div>
+        
+
+    </div>
+    <div class="boxcontainer">
+        <div class="box1">
+            <div class="card-left">
+            <h1 id="word">ninja</h1>
+            <p id="noun">noun </p>
+            <p id="noun">Plural: ninjas</p>
+            <button class="likebtn" onclick="alert('Ninja was liked')">13 likes</button>
+        </div>
+        <div class="card-right">
+            <p id="def">A practioner Skilled in the 
+                <br><span><a href="#">Japanese</a></span> arf of <span><a href="#">ninjutsu</a></span></p> 
+        </div>
+    </div>
+        <div class="box1">
+            <div class="card-left">
+                <h1 id="word">ninja</h1>
+                <p id="noun">noun </p>
+                <p id="noun">Plural: ninjas</p>
+                <button class="likebtn" onclick="alert('Ninja was liked')">37 likes</button>
+            </div>
+                <div class="card-right">
+                    <p id="def">A <span><a href="#">programmer</a></span> who breaks<br>
+                        down problems with <span><a href="#">zen</a></span>-like <br>focus </p> 
+                </div>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
